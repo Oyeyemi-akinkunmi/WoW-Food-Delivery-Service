@@ -1,13 +1,13 @@
 # WoW Food Delivery Service  
 
-[Project Overview](project-overview)  
-[Data Source](data-source)  
-[Project Objectives](project-objectives)  
-[Tools](tools)  
-[Approach](approach)  
-[Exploratory Data Analysis](exploratory-data-analysis)  
-[Results](results)  
-[Recommendations](recommendations)  
++ [Project Overview](#project-overview)  
+* [Data Source](#data-source)  
+- [Project Objectives](#project-objectives)  
+- [Tools](#tools)  
+- [Approach](#approach)  
+- [Exploratory Data Analysis](#exploratory-data-analysis)  
+- [Results](#results)  
+- [Recommendations](#recommendations)  
 
 ### Project Overview
 WoW Food Delivery Service is an online food delivery service that allows customers buy food from their favorites restaurants and have their food orders delivered to their desired location.  
