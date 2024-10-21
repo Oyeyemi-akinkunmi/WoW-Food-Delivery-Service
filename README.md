@@ -31,7 +31,7 @@ Python: Pandas, Sweetviz, Seaborn, Matplotlib
 - Converted “Order Date and Time” and “Delivery Date and Time” to a datetime format.
 - Converted “Discounts and Offers” to a consistent numeric values
 - Ascertained that all monetary values are in a suitable format (float or integer) for calculations
-- 
+  
 ### Data Analysis
 - Extracted relevant features that could impact cost and profitability.
 - Performed a breakdown of costs associated with each order, including fixed costs (like packaging) and variable costs (like delivery fees and discounts).
