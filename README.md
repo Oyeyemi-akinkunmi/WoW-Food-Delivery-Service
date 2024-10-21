@@ -1,4 +1,4 @@
-# WoW Food Delivery Service  
+# WoW Food Delivery Services  
 
 + [Project Overview](#project-overview)  
 * [Data Source](#data-source)  
@@ -10,7 +10,7 @@
 - [Recommendations](#recommendations)  
 
 ### Project Overview
-WoW Food Delivery Service is an online food delivery service that allows customers buy food from their favorites restaurants and have their food orders delivered to their desired location.  
+WoW Food Delivery Services is an online food delivery service that allows customers buy food from their favorites restaurants and have their food orders delivered to their desired location.  
 Wow Foods generates revenue through commission on each customer's order value. 
 However, there are various expenses WoW Foods incurs in delivery orders to customers. These expenses as delivery fee, payment processing fee and charges for refunds/ chargebacks. For incentives, WoW Foods also gives discounts to users; for using the app, new user and promo.  
 
